@@ -1,0 +1,14 @@
+- name: GitHub
+  url: http://github.com/wssci
+  class: icon-github
+  title: WSSCI organization on GitHub
+
+- name: YouTube
+  url: https://www.youtube.com/@thecombustioninstitute2784
+  class: icon-youtube
+  title: "Videos shared by the Combustion Institute on YouTube"
+
+- name: Twitter
+  url: http://twitter.com/@Combustion_Intl
+  class: icon-twitter
+  title: "The Combustion Institute on Twitter"
