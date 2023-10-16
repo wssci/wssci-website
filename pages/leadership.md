@@ -82,7 +82,7 @@ permalink: "/leadership/"
 * Bihter Padak, University of California Irvine
 * Carlos Pantano, University of Southern California
 * Vi Rapp, Lawrence Berkeley National Laboratory
-* Antonio Sanchez, University of California San Diego
+* Abhishek Saha, University of California San Diego
 * Jeffrey Santner, California State University, Los Angeles
 * Vinicius Sauer, California State University Northridge
 * Mitch Spearrin, University of California Los Angeles
