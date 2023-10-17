@@ -11,6 +11,10 @@ show_meta: false
 
 ## Upcoming events
 
+WSSCI 2024 Spring Meeting \\
+4-5 March 2024 \\
+Salt Lake City, Utah, USA
+
 [WSSCI 2023 Fall Meeting](http://wssci.us/meetings/f2023/) \\
 16–17 October 2023 \\
 Northridge, California, USA
