@@ -11,19 +11,19 @@ show_meta: false
 
 ## Upcoming events
 
-WSSCI 2024 Spring Meeting \\
+[WSSCI 2024 Spring Meeting](https://wssci.us/meetings/s2024/) \\
 4-5 March 2024 \\
 Salt Lake City, Utah, USA
-
-[WSSCI 2023 Fall Meeting](http://wssci.us/meetings/f2023/) \\
-16–17 October 2023 \\
-Northridge, California, USA
 
 [40th International Symposium on Combustion](http://www.combustionsymposia.org/2024/) \\
 21-26 July 2024 \\
 Milan, Italy
 
 ## Past events
+
+[WSSCI 2023 Fall Meeting](https://wssci.us/meetings/f2023/) \\
+16–17 October 2023 \\
+Northridge, California, USA
 
 [13th US National Combustion Meeting](https://turbolab.tamu.edu/uscnm2023/) \\
 19-22 March 2023 \\

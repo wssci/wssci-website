@@ -5,6 +5,9 @@ format: frontpage
 <div id="header-home">
     <div class="row">
         <div class="small-12 columns">
+            <p class="teaser" itemprop="description">
+				The Western States Section Combustion Institute (WSSCI) is a non-profit educational and scientific society whose purpose is to promote the science and application of combustion for the benefit of society. The WSSCI is composed of all members of The Combustion Institute resident in the States of Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming, and the Pacific territories of the United States.
+			</p>
         </div><!-- /.medium-4.columns -->
     </div><!-- /.row -->
 </div><!-- /#header-home -->
@@ -61,7 +64,8 @@ format: frontpage
 {% unless site.posts == empty %}
     <div class="row t30 b20 homepage">
         <div class="small-12 columns">
-            {% for post in site.posts limit:3 %}
+            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            {% for post in site.posts limit:1 %}
             {% if post.image.homepage %}
             <p>
                 <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}" title="{{ post.title | escape_once }}"><img width="970" src="{{ site.urlimg }}{{ post.image.homepage }}" alt="{{ page.title | escape_once }}"></a>
@@ -73,7 +77,7 @@ format: frontpage
             </p>
             {% endif %}
             {% else post.image.homepage == NULL %}
-            <h2>{{ site.data.language.new_blog_entries }}</h2>
+            
             {% endif %}
             {% endfor %}
         </div><!-- /.small-12.columns -->
@@ -92,13 +96,11 @@ format: frontpage
             {% endfor %}
         </div><!-- /.medium-5.columns -->
 
-    </div><!-- /.row -->
-    <div class="row">
             <div class="medium-6 columns">
             <p><strong>{{ site.data.language.more_articles }}</strong></p>
             {% include list-posts entries='3' offset='1' %}
         </div><!-- /.medium-7.columns -->
-    </div><!-- /.row -->
+
 {% endunless %}
 
 

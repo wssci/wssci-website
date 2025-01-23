@@ -16,8 +16,8 @@
   url: "/meeting-list/"
   side: left
   dropdown:
-  - title: Fall 2023 Meeting
-    url: "/meetings/f2023"
+  - title: Spring 2024 Meeting
+    url: "/meetings/s2024"
   - title: Past Meetings
     url: "/meeting-list/"
 
