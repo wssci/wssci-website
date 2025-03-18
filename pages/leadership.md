@@ -69,7 +69,7 @@ permalink: "/leadership/"
 * Marc Baumgardner, Gonzaga University
 * Jacqueline Chen, Sandia National Laboratories
 * Alice Chien, University of California Irvine
-* Jeanette Cobian-Iniquez, University of California Merced
+* Jeanette Cobian-Iñiguez, University of California Davis
 * Marcus Day, National Renewable Energy Laboratory
 * Peter Hamlington, University of Colorado Boulder
 * Hadi Hajilou, University of Portland
