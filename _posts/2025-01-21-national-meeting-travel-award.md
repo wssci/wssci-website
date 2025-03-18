@@ -18,7 +18,7 @@ show_meta: false
 
 Student travel award applications for the 14th U.S. National Combustion Meeting (USNCM)  provided by the Western States Section of the Combustion Institute (WSSCI) at the The Westin Copley Place in Boston, Massachusetts are now open. The award (in the past ~$400 per student, assuming that sufficient funds are available) applies to students who are presenting at the meeting, must travel greater than 50 miles, and are current members of the Western States Section of the Combustion Institute. Please note: preference may be given to students with oral presentations and financial need, pending total student requests. The deadline for applications is **2/14/25**.
 
-To apply, please complete this form AND attach a PDF statement (PDF screenshot of email is sufficient) from your advisor verifying the below five points by 1/28/25. For any questions, please email <mailto:mgollner@berkeley.edu> and please include "[WSSCI Travel Awards]" in the email subject line.
+To apply, please complete [this Google form](https://docs.google.com/forms/d/e/1FAIpQLSf-tXd4LfKoRvf6mwFktgyyNVTsk-v6UfW0e1DHX-_Y-H81Og/viewform?usp=dialog) AND attach a PDF statement (PDF screenshot of email is sufficient) from your advisor verifying the below five points by 2/14/25. For any questions, please email <mailto:mgollner@berkeley.edu> and please include "[WSSCI Travel Awards]" in the email subject line.
 
 1. Membership in the Western States Section
 2. Presentation of a paper or poster
