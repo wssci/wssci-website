@@ -11,15 +11,23 @@ show_meta: false
 
 ## Upcoming events
 
-[WSSCI 2024 Spring Meeting](https://wssci.us/meetings/s2024/) \\
-4-5 March 2024 \\
-Salt Lake City, Utah, USA
+[WSSCI 2026 Spring Meeting](https://wssci.us/meetings/s2026/) \\
+23-24 March 2026 \\
+Portland, Oregon, USA
+
+[41th International Symposium on Combustion](http://www.combustionsymposia.org/) \\
+26-31 July 2026 \\
+Kyoto, Japan
+
+## Past events
 
 [40th International Symposium on Combustion](http://www.combustionsymposia.org/2024/) \\
 21-26 July 2024 \\
 Milan, Italy
 
-## Past events
+[WSSCI 2024 Spring Meeting](https://wssci.us/meetings/s2024/) \\
+4-5 March 2024 \\
+Salt Lake City, Utah, USA
 
 [WSSCI 2023 Fall Meeting](https://wssci.us/meetings/f2023/) \\
 16–17 October 2023 \\
